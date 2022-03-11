@@ -3,7 +3,7 @@ Intake information from real estate buyer in order to write a competitive offer 
 
 ## Getting Started
 
-download the project, open it with pycharm. 
+download the project, open myScript.py with a IDE of your choice such as Pycharm, VSCode. 
 
 ### Prerequisites
 
