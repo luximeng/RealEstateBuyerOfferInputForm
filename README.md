@@ -1,5 +1,5 @@
 # RealEstateBuyerOfferInputForm
-Intake information from real estate buyer in order to write a competitive offer for a property
+Intake information from real estate buyer in order to write a competitive offer for a property, buyer will input listed price and desired earnest money amount, the program will calculate the exact amount for their earnest money and display info.
 
 ## Getting Started
 
